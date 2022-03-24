@@ -10,5 +10,5 @@ OPENAI_KEY = "your openai API key"
 (If you are using replit use secrets 🔒 and add your tokens)
 
 
-Openai api https://openai.com/
-discord discord.com
+Openai api https://openai.com/  
+discord https://discord.com
