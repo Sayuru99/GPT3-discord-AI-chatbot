@@ -11,4 +11,11 @@ OPENAI_KEY = "your openai API key"
 
 
 Openai api https://openai.com/  
-discord https://discord.com
+discord https://discord.com  
+
+
+
+
+
+
+Any question? https://discord.gg/8UrjwxjSBd
